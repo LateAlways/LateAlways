@@ -1,7 +1,7 @@
 # Hi! 👋
 
 <p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=latealways&data=followers,repositories,stars,commits"></p>
-<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/skills?names=java,python,html,css,javascript,json,bash,lua,php,batch&includeNames=true"></p>
+<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/skills?names=java,python,html,css,javascript,json,bash,lua,php&includeNames=true"></p>
 
 ### Current Projects
 - Fuchsia X (https://fuchsiax.dev)
