@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi! 👋
 
-<!--
-**LateAlways/LateAlways** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=latealways&data=followers,repositories,stars,commits"></p>
+<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/skills?names=java,python,html,css,javascript,json,bash,lua,php&includeNames=true"></p>
 
-Here are some ideas to get you started:
+### Current Projects
+- Fuchsia X (https://fuchsiax.dev)
+- SuTart's Final Story - ROBLOX (https://www.roblox.com/games/10095970219/STORY-SuTarts-Final-Story)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm interested in...
+- Minecraft Clients
+- Website Development
+- ROBLOX Scripts
+- Vulnerabilities/Exploits
+
+## Contact
+- LateAlways#6792 on Discord
+
+Website: https://latealways.is-a.dev
+
+![](https://komarev.com/ghpvc/?username=latealways&style=for-the-badge)
+
+
+![LateAlways' GitHub stats](https://github-readme-stats.vercel.app/api?username=latealways&show_icons=true&theme=dark)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=latealways&theme=dark&layout=compact)
