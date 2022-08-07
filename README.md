@@ -4,14 +4,11 @@
 <p align = "center"><img src = "https://github-widgetbox.vercel.app/api/skills?names=java,python,html,css,javascript,json,bash,lua,php&includeNames=true"></p>
 
 ### Current Projects
-- Fuchsia X (https://fuchsiax.dev)
 - SuTart's Final Story - ROBLOX (https://www.roblox.com/games/10095970219/STORY-SuTarts-Final-Story)
 
 ### I'm interested in...
-- Minecraft Clients
+- Minecraft Clients/Hacked Clients
 - Website Development
-- ROBLOX Scripts
-- Vulnerabilities/Exploits
 
 ## Contact
 - LateAlways#6792 on Discord
