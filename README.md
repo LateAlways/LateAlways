@@ -15,9 +15,6 @@
 
 Website: https://latealways.is-a.dev
 
-![](https://komarev.com/ghpvc/?username=latealways&style=for-the-badge)
-
-
 ![LateAlways' GitHub stats](https://github-readme-stats.vercel.app/api?username=latealways&show_icons=true&theme=dark)
 
 
