@@ -5,7 +5,7 @@
 <p align = "center"><img src = "https://github-profile-trophy.vercel.app/?username=LateAlways"></p>
 
 ### Current Projects
-- SuTart's Final Story - ROBLOX (https://www.roblox.com/games/10095970219/STORY-SuTarts-Final-Story)
+- Stonks - A stock trading bot.
 
 ### I'm interested in...
 - Minecraft Clients/Hacked Clients
