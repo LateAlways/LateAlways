@@ -12,7 +12,7 @@
 - Website Development
 
 ## Contact
-- LateAlways#6792 on Discord
+- LateAlways on Discord
 
 Website: https://latealways.is-a.dev
 
