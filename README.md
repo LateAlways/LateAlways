@@ -5,16 +5,15 @@
 <p align = "center"><img src = "https://github-profile-trophy.vercel.app/?username=LateAlways"></p>
 
 ### Current Projects
-- Stonks - A stock trading bot.
+- None
 
 ### I'm interested in...
-- Minecraft Clients/Hacked Clients
-- Website Development
+- Reverse-Engineering
 
 ## Contact
 - LateAlways on Discord
 
-Website: https://latealways.is-a.dev
+Website: https://latealways.dev/
 
 ![LateAlways' GitHub stats](https://github-readme-stats.vercel.app/api?username=latealways&show_icons=true&theme=dark)
 
