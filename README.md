@@ -1,7 +1,7 @@
 # Hi! 👋
 
 <p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=latealways&theme=darkmode&data=followers,repositories,stars,commits"></p>
-<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/skills?names=java,python,html,css,javascript,json,bash,lua,php,typescript&theme=darkmode&includeNames=true"></p>
+<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/skills?names=js,ts,java,php,python,html,css,bash,xml,json,yaml,mysql,lua,markdown&theme=darkmode&includeNames=true"></p>
 
 ## Contact
 - LateAlways on Discord
