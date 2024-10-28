@@ -2,7 +2,6 @@
 
 <p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=latealways&theme=darkmode&data=followers,repositories,stars,commits"></p>
 <p align = "center"><img src = "https://github-widgetbox.vercel.app/api/skills?names=java,python,html,css,javascript,json,bash,lua,php,typescript&theme=darkmode&includeNames=true"></p>
-<p align = "center"><img src = "https://github-profile-trophy.vercel.app/?username=LateAlways"></p>
 
 ### Current Projects
 - None
