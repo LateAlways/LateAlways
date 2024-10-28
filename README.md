@@ -11,7 +11,7 @@ Website: https://latealways.dev/
 
 
 <div style="display: flex; justify-content: space-between;">
-  ![LateAlways' GitHub stats](https://github-readme-stats.vercel.app/api?username=latealways&show_icons=true&theme=dark)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=latealways&theme=dark&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api?username=latealways&show_icons=true&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=latealways&theme=dark&layout=compact">
 </div>
 
