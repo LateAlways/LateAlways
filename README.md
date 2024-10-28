@@ -107,7 +107,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/LateAlways/LateAlways/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/LateAlways/LateAlways/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
 
