@@ -1,120 +1,51 @@
-<br clear="both">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=170&text=Hey,%20I'm%20LateAlways&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="Hey, I'm LateAlways" width="100%">
 
-<h1 align="center">Hey 👋</h1>
+Tinkerer from Québec who likes making software run in places it was never meant to. 👋
 
-###
+- 🚗 Poking at **VW Group MIB2 infotainment units** — converting MHI2 maps for MHS2 units, and bringing Google Earth back to life with a proxy that talks to the original Keyhole servers
+- 🧮 Building **browser tools for TI calculators**, like TI Connect CE running with nothing to install
+- 🪞 Keeping useful resources alive with a **mirror of mibwiki.one** for when the original site is down
+- 🌐 Writing web things in **JavaScript/TypeScript** and **Python** the rest of the time
 
-<br clear="both">
+### Featured projects
 
-<div align="center">
-  <img height="" src="https://github-widgetbox.vercel.app/api/profile?username=latealways&theme=darkmode&data=followers,repositories,stars,commits"  />
-</div>
+| Project | About | |
+| --- | --- | --- |
+| **[ti-connect-ce-browser](https://github.com/LateAlways/ti-connect-ce-browser)** | TI Connect CE for Chrome OS, patched to run entirely in the browser — nothing to install. | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript"> |
+| **[MHI2-to-MHS2](https://github.com/LateAlways/MHI2-to-MHS2)** | Converts maps made for VW Group MHI2 MMI units into maps a MHS2 unit accepts. | <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"> |
+| **[mibwiki-mirror](https://github.com/LateAlways/mibwiki-mirror)** | Mirror of mibwiki.one, for when the original site is offline. | <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"> |
+| **[mib-earth-bridge](https://github.com/LateAlways/mib-earth-bridge)** | Restores Google Earth on MIB2 units by relaying its requests back to the original Google Keyhole servers. | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript"> |
 
-###
+### Stack
 
-<br clear="both">
+**Languages**
 
-<div align="center">
-  <img height="" src="https://github-widgetbox.vercel.app/api/skills?names=js,ts,java,php,python,html,css,bash,xml,json,yaml,mysql,lua,markdown&theme=darkmode&includeNames=true"  />
-</div>
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,php,lua,html,css" alt="JavaScript, TypeScript, Python, Java, PHP, Lua, HTML, CSS">
 
-###
+**Web & backend**
 
-<br clear="both">
+<img src="https://skillicons.dev/icons?i=nodejs,flask,nginx,mysql,sqlite" alt="Node.js, Flask, Nginx, MySQL, SQLite">
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-plain-wordmark.svg" height="40" alt="discordjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="electron logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="40" alt="phpstorm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" height="40" alt="pytest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="40" alt="ssh logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" height="40" alt="unix logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" alt="wordpress logo"  />
-</div>
+**Hardware & tools**
 
-###
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,git" alt="Arduino, Raspberry Pi, Linux, Git">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LateAlways&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LateAlways&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
+### GitHub stats
 
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LateAlways&theme=tokyonight">
+  <img height="180" alt="LateAlways' GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LateAlways&theme=vue">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LateAlways&theme=tokyonight">
+  <img height="180" alt="Top languages by repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LateAlways&theme=vue">
+</picture>
 
-<img src="https://raw.githubusercontent.com/LateAlways/LateAlways/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=LateAlways&theme=tokyonight&hide_border=true&background=00000000">
+  <img height="180" alt="Contribution streak" src="https://streak-stats.demolab.com?user=LateAlways&hide_border=true&background=00000000">
+</picture>
 
-###
+### Contact
 
-<br clear="both">
-
-<div align="center">
-  <a href="https://discord.com/users/705484710679150695" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-</div>
+<a href="mailto:contact@latealways.dev"><img src="https://img.shields.io/badge/email-contact%40latealways.dev-8A2BE2" alt="Email: contact@latealways.dev"></a> <a href="https://discord.com/users/705484710679150695"><img src="https://img.shields.io/badge/Discord-latealways-5865F2?logo=discord&logoColor=fff" alt="Discord: latealways"></a>
